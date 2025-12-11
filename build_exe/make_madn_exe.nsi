@@ -8,14 +8,14 @@ VIProductVersion ${EXE_VERSION}
 ; English language
 VIAddVersionKey /LANG=1033 "FileDescription" "A digital version of the game 'Mensch ärgere Dich nicht'. Playable from 2 to 4 Players with offline multiplayer."
 VIAddVersionKey /LANG=1033 "ProductName" "Mensch ärgere Dich nicht"
-VIAddVersionKey /LANG=1033 "Link" "https://github.com/Zusatzprojekt/MADN"
+VIAddVersionKey /LANG=1033 "Link" "https://github.com/Programmierprojekt-GBS-I1A-MADN/MADN"
 VIAddVersionKey /LANG=1033 "LegalCopyright" ""
 VIAddVersionKey /LANG=1033 "FileVersion" ${EXE_VERSION}
 
 ; German language
 VIAddVersionKey /LANG=1031 "FileDescription" "Eine digitale Version von 'Mensch ärgere Dich nicht'. Spielbar mit 2 - 4 Spielern im Offline-Multiplayer."
 VIAddVersionKey /LANG=1031 "ProductName" "Mensch ärgere Dich nicht"
-VIAddVersionKey /LANG=1031 "Link" "https://github.com/Zusatzprojekt/MADN"
+VIAddVersionKey /LANG=1031 "Link" "https://github.com/Programmierprojekt-GBS-I1A-MADN/MADN"
 VIAddVersionKey /LANG=1031 "LegalCopyright" ""
 VIAddVersionKey /LANG=1031 "FileVersion" ${EXE_VERSION}
 
